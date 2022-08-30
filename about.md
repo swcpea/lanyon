@@ -14,5 +14,4 @@ Hi! 這是水土保持技師公會為了直播臨時架設的網站，希望大�
 
 ### [講義下載](https://reurl.cc/YXVRaL)
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fswcpea%2Fvideos%2F736145370780727%2F&width=1920" width="1920" height="1080" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
-
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fswcpea%2Fvideos%2F736145370780727%2F&width=1280" width="1280" height="720" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
